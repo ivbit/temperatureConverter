@@ -6,4 +6,12 @@ The script does temperature conversion:
 
 in **real time**, with **instant reaction** to user's **input**.
 
-OpenBSD's pdksh
+*Advanced KSH Voodoo magic*
+
+OpenBSD's **pdksh**
+
+GNU/Linux version: **temperatureConverterSpecialV4.ksh** is using **mksh** shell
+
+*sudo apt install mksh*
+
+*sudo apt install bc*
